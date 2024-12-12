@@ -315,7 +315,7 @@
                             <h4 class="text-primary mb-0">+012 345 6789</h4>
                         </div> -->
                     </div>
-                    <a href="quote.html" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Floor Plan</a>
+                    <a  class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s" onclick="document.getElementById('FloorPlan').scrollIntoView({ behavior: 'smooth' });">Floor Plan</a>
                 </div>
                 <div class="col-lg-5" style="min-height: 500px;">
                     <div class="position-relative h-100">
@@ -664,7 +664,7 @@
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
                 <h5 class="fw-bold text-primary text-uppercase">Floor Plan</h5>
-                <h1 class="mb-0">Floor Dimension: 40' x 60' </h1>
+                <h1 id="FloorPlan" class="mb-0">Floor Dimension: 40' x 60' </h1>
             </div>
             <div class="row g-5">
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
@@ -673,6 +673,7 @@
                             <img class="img-fluid" src="img/floorplan1.jpg" alt="">
                             <!-- <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Ground Floor</a> -->
                              <h2 class="position-relative text-center">Ground Floor</h2>
+                             <p>This floor consists of administration office and 2 staff rooms</p>
                         </div>
                         <!-- <div class="p-4">
                             <div class="d-flex mb-3">
@@ -690,6 +691,7 @@
                         <div class=" position-relative overflow-hidden">
                             <img class="img-fluid" src="img/floorplan2.jpg" alt="">
                             <h2 class="position-relative text-center">First Floor</h2>
+                            <p>This floor is where students learn their knowledge by theory</p>
                             <!-- <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Second Floor</a> -->
                         </div>
                         <!-- <div class="p-4">
@@ -708,6 +710,7 @@
                         <div class=" position-relative overflow-hidden">
                             <img class="img-fluid" src="img/floorplan3.jpg" alt="">
                             <h2 class="position-relative text-center">Second Floor</h2>
+                            <p>Second floor has few laboratories which used by students and teachers to do experiments and projects</p>
                             <!-- <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Third Floor</a> -->
                         </div>
                         <!-- <div class="p-4">
