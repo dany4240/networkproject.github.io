@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,10 +31,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -68,7 +64,7 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\USER\\Downloads\\networkproject.github.io\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AQIAAOsAAAAAAAAAAAAcwAwDAAAGAAAA",
+              "ViewState": "AQIAAOsAAAAAAAAAAAAcwAwDAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-01-19T11:17:38.493Z",
               "EditorCaption": ""
