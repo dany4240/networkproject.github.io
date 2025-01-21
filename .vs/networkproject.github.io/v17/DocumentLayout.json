@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "about.html",
               "ToolTip": "C:\\Users\\USER\\Downloads\\networkproject.github.io\\about.html",
               "RelativeToolTip": "about.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-01-20T17:25:07.549Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "feature.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-19T12:31:22.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T12:31:22.488Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "index.html",
               "ViewState": "AQIAAOsAAAAAAAAAAAAcwAwDAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-19T11:17:38.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T11:17:38.493Z"
             }
           ]
         }
